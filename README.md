@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArunningATMman
-- 👀 I’m interested in  
+- 👀 I’m interested in  photography, automobile and network security.
 -
 - 🌱 I’m currently learning NetWork, Python and JAVA.
 - 💞️ I’m looking to collaborate on ...
